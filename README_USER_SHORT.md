@@ -6,12 +6,12 @@ Simple app for managing Israeli railway trains & stations. Perfect for operators
 
 ## 🎯 What You Can Do
 
-+ ✅ **ADD TRAINS** → Click "Add Train" → Select origin & destination → Click Create
-- ✅ **EDIT TRAINS** → Find train → Click Edit → Change route → Click Save
-- ✅ **DELETE TRAINS** → Find train → Click Delete → Confirm
-- ✅ **VIEW STATIONS** → See all 7 Israeli railway stations
-- ✅ **CHANGE LANGUAGE** → 🇺🇸 English | 🇮🇱 Hebrew | 🇷🇺 Russian | 🇺🇦 Ukrainian
-- ✅ **FILTER BY DAY** → See trains for specific days
+✅ **ADD TRAINS** → Click "Add Train" → Select origin & destination → Click Create
+✅ **EDIT TRAINS** → Find train → Click Edit → Change route → Click Save
+✅ **DELETE TRAINS** → Find train → Click Delete → Confirm
+✅ **VIEW STATIONS** → See all 7 Israeli railway stations
+✅ **CHANGE LANGUAGE** → 🇺🇸 English | 🇮🇱 Hebrew | 🇷🇺 Russian | 🇺🇦 Ukrainian
+✅ **FILTER BY DAY** → See trains for specific days
 
 ---
 
